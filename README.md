@@ -1,3 +1,3 @@
 Practice
 
-https://tahmidshahriar007.github.io/
+https://tahmidshahriar007.github.io/practiceproject
